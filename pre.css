@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+body {
+    font-family: 'Jua', sans-serif;
+    .color{
+        color:rgb(255, 140, 0);
+    }
+}
+.input-container {
+    margin: 20px;
+}
+.output {
+    margin-top: 10px;
+    font-size: 30px;
+}
