@@ -3,7 +3,7 @@ function hamsu() {
     var outputText = document.getElementById("outtx"); //<p id="outtx"></p>로 결과 값을 보냅니다. (출력)
 
     if (isNaN(inputNumber)) {
-        outputText.innerHTML = "응애 나 초전도체 아기";
+        outputText.innerHTML = "응애 오류.";
     }
     else {
         if (inputNumber >= 0 && inputNumber <= 8) {
